@@ -15,9 +15,9 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    htmlAttrs: {
+    htmlAttrs: [{
       lang: 'ja',
-    },
+    }],
     title: '麻雀',
     meta: [
       { charset: 'utf-8' },
