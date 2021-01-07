@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "/Users/shimizusonoko/project/mahjong/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_d452502e"
+    "chunkName": "pages/index"
   }
 ]

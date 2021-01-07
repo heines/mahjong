@@ -1,4 +1,14 @@
+const routerBase =
+  process.env.DEPLOY_ENV === 'GH_PAGES'
+    ? {
+        router: {
+          base: '/mahjong/',
+        },
+      }
+    : {};
+
 export default {
+  ...routerBase,
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
   ssr: false,
   buildDir: 'docs',

@@ -53,16 +53,16 @@
   "link": [
     {
       "rel": "shortcut icon",
-      "href": "/_nuxt/icons/icon_64x64.5f6a36.png"
+      "href": "/mahjong/_nuxt/icons/icon_64x64.5f6a36.png"
     },
     {
       "rel": "apple-touch-icon",
-      "href": "/_nuxt/icons/icon_512x512.5f6a36.png",
+      "href": "/mahjong/_nuxt/icons/icon_512x512.5f6a36.png",
       "sizes": "512x512"
     },
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.f3b858ae.json",
+      "href": "/mahjong/_nuxt/manifest.778829e6.json",
       "hid": "manifest"
     }
   ],
