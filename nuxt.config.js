@@ -73,6 +73,9 @@ export default {
       families: ['Roboto:400,700'],
     },
   },
+  manifest: {
+    lang: 'ja',
+  },
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
   axios: {},
